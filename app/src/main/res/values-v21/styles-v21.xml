@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="imagev21">
+        <item name="android:layout_width">392dp</item>
+        <item name="android:layout_height">292dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+    </style>
+
+    <style name="titlev21">
+        <item name="android:layout_width">366dp</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="locationv21">
+        <item name="android:layout_width">367dp</item>
+        <item name="android:layout_height">59dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="distancev21">
+        <item name="android:layout_width">369dp</item>
+        <item name="android:layout_height">62dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="button1v21">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">185dp</item>
+    </style>
+
+    <style name="button2v21">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:layout_marginStart">15dp</item>
+    </style>
+</resources>
